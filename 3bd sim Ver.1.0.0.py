@@ -4,7 +4,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import tkinter as tk
 from tkinter import ttk, messagebox
 from scipy.integrate import odeint
-# as of 21/11/2025 i am still learning phython syntax so took help from github copilots inline code suggestions
+# as of 21/11/2025 i am still learning python syntax so took help from github copilots inline code suggestions
 # but all the code logic and structure was developed by me
 # Constants 
 G = 6.67430e-11  # Gravitational constant
